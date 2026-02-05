@@ -39,4 +39,5 @@ try {
 } catch (error) {
     console.warn('Firebase initialization error:', error.message);
     console.info('App will work in local-only mode. Sign in to sync across devices.');
+
 }
