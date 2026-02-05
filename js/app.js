@@ -703,4 +703,5 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     updateDashboard();
+
 });
