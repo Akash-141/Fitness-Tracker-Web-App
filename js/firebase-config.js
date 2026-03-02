@@ -41,3 +41,4 @@ try {
     console.info('App will work in local-only mode. Sign in to sync across devices.');
 
 }
+
