@@ -705,3 +705,4 @@ document.addEventListener('DOMContentLoaded', () => {
     updateDashboard();
 
 });
+
