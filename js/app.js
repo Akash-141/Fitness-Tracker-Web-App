@@ -48,6 +48,7 @@ function formatDate(date) {
     });
 }
 
+
 function calculateCalories(type, duration, intensity) {
     const baseCalories = {
         cardio: 10,
