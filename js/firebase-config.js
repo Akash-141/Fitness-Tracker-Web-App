@@ -9,7 +9,6 @@
 // 7. Enable Firestore: Firestore Database > Create database (Start in production mode)
 // 8. Update Firestore rules (see firestore.rules file)
 
-
 const firebaseConfig = {
     apiKey: "AIzaSyAJ5H1GLQpTUlki150m6FWz9i8FLTjnvOA",
     authDomain: "fitnesstrackerwebapp-95928.firebaseapp.com",
