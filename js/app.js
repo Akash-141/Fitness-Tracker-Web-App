@@ -6,6 +6,7 @@ let distributionChart = null;
 let isSignUpMode = false;
 
 // ===== DOM Elements =====
+
 const elements = {
     themeToggle: document.getElementById('themeToggle'),
     authBtn: document.getElementById('authBtn'),
