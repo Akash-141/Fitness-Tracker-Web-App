@@ -1,4 +1,3 @@
-
 // ===== Firebase Configuration =====
 // 🔥 SETUP INSTRUCTIONS:
 // 1. Go to https://console.firebase.google.com/
