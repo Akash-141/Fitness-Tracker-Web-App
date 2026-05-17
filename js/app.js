@@ -1,4 +1,3 @@
-
 // ===== App State =====
 let currentUser = null;
 let workouts = [];
