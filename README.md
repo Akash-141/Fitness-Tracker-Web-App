@@ -1,3 +1,1 @@
 # Fitness-Tracker-Web-App
-
-
