@@ -155,7 +155,6 @@ elements.toggleAuthMode.addEventListener('click', () => {
     }
 });
 
-
 elements.authForm.addEventListener('submit', async(e) => {
     e.preventDefault();
     const email = document.getElementById('authEmail').value.trim();
