@@ -169,6 +169,7 @@ elements.authForm.addEventListener('submit', async(e) => {
         return;
     }
 
+    
     // Disable button and show loading
     submitBtn.disabled = true;
     submitBtn.innerHTML = '<span>Processing...</span>';
