@@ -227,6 +227,7 @@ elements.authForm.addEventListener('submit', async(e) => {
     }
 });
 
+
 function localSignIn(email, fullName = 'User') {
     currentUser = { email, uid: 'local-' + Date.now(), displayName: fullName };
     updateAuthUI();
