@@ -19,6 +19,8 @@ const firebaseConfig = {
 };
 
 
+
+
 // Initialize Firebase
 try {
     if (typeof firebase !== 'undefined' && !firebase.apps.length) {
