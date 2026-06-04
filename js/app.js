@@ -386,6 +386,8 @@ async function deleteWorkoutFromFirebase(id) {
     }
 }
 
+
+
 // ===== Local Storage Functions =====
 function loadWorkoutsFromLocal() {
     const stored = localStorage.getItem(`workouts_${currentUser.uid}`);
