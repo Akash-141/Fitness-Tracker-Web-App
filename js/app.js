@@ -275,6 +275,8 @@ function updateAuthUI() {
     }
 }
 
+
+
 // ===== Firebase Integration =====
 if (window.firebase && firebase.auth) {
     firebase.auth().onAuthStateChanged(async(user) => {
