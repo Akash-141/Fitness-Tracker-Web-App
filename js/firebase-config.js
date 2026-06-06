@@ -18,6 +18,8 @@ const firebaseConfig = {
     appId: "1:1027615945306:web:9a2cc1826e66a7ca079e63"
 };
 
+
+
 // Initialize Firebase
 try {
     if (typeof firebase !== 'undefined' && !firebase.apps.length) {
