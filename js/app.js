@@ -116,6 +116,8 @@ elements.themeToggle.addEventListener('click', () => {
     applyTheme(current === 'dark' ? 'light' : 'dark');
 });
 
+
+
 // ===== Auth Modal =====
 function openAuthModal() {
     elements.authModal.classList.add('active');
