@@ -5,8 +5,9 @@ let weeklyChart = null;
 let distributionChart = null;
 let isSignUpMode = false;
 
-// ===== DOM Elements =====
 
+
+// ===== DOM Elements =====
 const elements = {
     themeToggle: document.getElementById('themeToggle'),
     authBtn: document.getElementById('authBtn'),
