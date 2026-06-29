@@ -5,8 +5,6 @@ let weeklyChart = null;
 let distributionChart = null;
 let isSignUpMode = false;
 
-
-
 // ===== DOM Elements =====
 
 const elements = {
